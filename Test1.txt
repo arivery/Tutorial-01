@@ -1,2 +1,3 @@
 Esto es un cambio desde local repo01
 
+Este es un cambio desde Code Editor
